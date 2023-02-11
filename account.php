@@ -272,13 +272,13 @@ echo '</table></div></div>';}
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="image/faisal.jpg" width=100 height=100 alt="Faisal Amir" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="#" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Faisal Amir</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 8239376737</h4>
+		<h4 style="font-family:'typo' ">faisalaamirkhan23@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Lovely Professional University</h4></div></div>
 		</p>
       </div>
     
